@@ -1,0 +1,313 @@
+design,code,distribution,criterion_index,criterion,family,threshold_value,n_null,n_false_stops,FPR_pct,Wilson_one_sided95_upper_pct,passes_5pct,status
+Independent t-test,t_ind,normal,0,p < .05,p,0.05,24000,780,3.25,3.44360603237746,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,1,p < .01,p,0.01,24000,267,1.1125,1.229503863488832,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,2,p < .001,p,0.001,24000,52,0.2166666666666666,0.2719614199613435,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,3,p < .0001,p,0.0001,24000,6,0.025,0.0483378122446603,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,4,BF n50 ~ p=.05,BF-matched,1.192622604125619,24000,592,2.466666666666667,2.636787155285478,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,5,BF n50 ~ p=.01,BF-matched,4.269813471366016,24000,216,0.9,1.005953453648467,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,6,BF n50 ~ p=.001,BF-matched,29.551015399212787,24000,40,0.1666666666666666,0.2159536792505558,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,7,BF n50 ~ p=.0001,BF-matched,220.43350417273305,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,8,BF >= 3,BF-reference,3.0,24000,297,1.2375,1.3604973999075616,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,9,BF >= 10,BF-reference,10.0,24000,102,0.425,0.4998800899911943,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,10,BF >= 30,BF-reference,30.0,24000,40,0.1666666666666666,0.2159536792505558,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,normal,11,BF >= 100,BF-reference,100.0,24000,10,0.0416666666666666,0.0696848077378969,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,0,p < .05,p,0.05,24000,557,2.3208333333333333,2.486150712738071,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,1,p < .01,p,0.01,24000,188,0.7833333333333333,0.8826423967169424,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,2,p < .001,p,0.001,24000,33,0.1375,0.1828612527018177,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,3,p < .0001,p,0.0001,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,4,BF n50 ~ p=.05,BF-matched,1.192622604125619,24000,407,1.6958333333333333,1.8384663768138645,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,5,BF n50 ~ p=.01,BF-matched,4.269813471366016,24000,146,0.6083333333333333,0.6966431072830637,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,6,BF n50 ~ p=.001,BF-matched,29.551015399212787,24000,19,0.0791666666666666,0.1151796656807837,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,7,BF n50 ~ p=.0001,BF-matched,220.43350417273305,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,8,BF >= 3,BF-reference,3.0,24000,207,0.8625,0.9663686290711482,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,9,BF >= 10,BF-reference,10.0,24000,54,0.225,0.2812260931455878,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,10,BF >= 30,BF-reference,30.0,24000,19,0.0791666666666666,0.1151796656807837,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,t3,11,BF >= 100,BF-reference,100.0,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,0,p < .05,p,0.05,24000,449,1.870833333333333,2.0202119208529554,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,1,p < .01,p,0.01,24000,122,0.5083333333333333,0.5896208623040453,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,2,p < .001,p,0.001,24000,22,0.0916666666666666,0.1299105067877451,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,3,p < .0001,p,0.0001,24000,3,0.0125,0.0312732969991121,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,4,BF n50 ~ p=.05,BF-matched,1.192622604125619,24000,285,1.1875,1.3081394433336673,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,5,BF n50 ~ p=.01,BF-matched,4.269813471366016,24000,78,0.325,0.3912852740069249,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,6,BF n50 ~ p=.001,BF-matched,29.551015399212787,24000,14,0.0583333333333333,0.090208226262567,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,7,BF n50 ~ p=.0001,BF-matched,220.43350417273305,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,8,BF >= 3,BF-reference,3.0,24000,130,0.5416666666666666,0.6253669375217559,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,9,BF >= 10,BF-reference,10.0,24000,31,0.1291666666666666,0.1733323245136144,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,10,BF >= 30,BF-reference,30.0,24000,14,0.0583333333333333,0.090208226262567,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Independent t-test,t_ind,lognormal,11,BF >= 100,BF-reference,100.0,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,0,p < .05,p,0.05,24000,1021,4.254166666666666,4.473656563006208,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,1,p < .01,p,0.01,24000,416,1.7333333333333334,1.877441734947929,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,2,p < .001,p,0.001,24000,41,0.1708333333333333,0.2206524913604409,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,3,p < .0001,p,0.0001,24000,7,0.0291666666666666,0.053783291301917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,874,3.6416666666666666,3.845841091238195,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,259,1.0791666666666666,1.1945140637730594,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,40,0.1666666666666666,0.2159536792505558,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,8,BF >= 3,BF-reference,3.0,24000,341,1.4208333333333334,1.5520780063321364,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,9,BF >= 10,BF-reference,10.0,24000,103,0.4291666666666666,0.5043814421827154,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,10,BF >= 30,BF-reference,30.0,24000,39,0.1625,0.2112482450835721,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,normal,11,BF >= 100,BF-reference,100.0,24000,12,0.05,0.0800230958601293,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,0,p < .05,p,0.05,24000,821,3.4208333333333334,3.6191317515139607,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,1,p < .01,p,0.01,24000,303,1.2625,1.3866578346695035,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,2,p < .001,p,0.001,24000,15,0.0625,0.0952532680945262,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,3,p < .0001,p,0.0001,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,631,2.629166666666667,2.804461677502621,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,160,0.6666666666666666,0.7588032771047075,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,15,0.0625,0.0952532680945262,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,8,BF >= 3,BF-reference,3.0,24000,206,0.8583333333333333,0.9619674693081964,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,9,BF >= 10,BF-reference,10.0,24000,47,0.1958333333333333,0.2487186424000526,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,10,BF >= 30,BF-reference,30.0,24000,13,0.0541666666666666,0.0851326408014938,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,t3,11,BF >= 100,BF-reference,100.0,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,0,p < .05,p,0.05,24000,5821,24.254166666666663,24.712139044302,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,1,p < .01,p,0.01,24000,4145,17.270833333333332,17.67585237357264,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,2,p < .001,p,0.001,24000,2048,8.533333333333333,8.834655678063985,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,3,p < .0001,p,0.0001,24000,955,3.9791666666666665,4.191946522911032,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,5819,24.245833333333334,24.70375350213568,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,4054,16.891666666666666,17.293207766437202,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,2111,8.795833333333333,9.101220283981458,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,985,4.104166666666667,4.320028295973124,True,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,8,BF >= 3,BF-reference,3.0,24000,4442,18.508333333333333,18.92422115959701,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,9,BF >= 10,BF-reference,10.0,24000,2838,11.825,12.172153431295072,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,10,BF >= 30,BF-reference,30.0,24000,2080,8.666666666666666,8.97006383412078,False,exploratory; original 95% persistence minimum N; not refitted under violation
+Paired t-test,t_pair,lognormal,11,BF >= 100,BF-reference,100.0,24000,1326,5.525,5.772626377142748,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,0,p < .05,p,0.05,24000,717,2.9875,3.173621279965195,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,1,p < .01,p,0.01,24000,269,1.1208333333333331,1.2382472900062815,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,2,p < .001,p,0.001,24000,46,0.1916666666666666,0.244055040813178,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,3,p < .0001,p,0.0001,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,4,BF n50 ~ p=.05,BF-matched,1.0687526332443646,24000,586,2.441666666666667,2.6109748659961465,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,5,BF n50 ~ p=.01,BF-matched,4.1856582588433735,24000,219,0.9125,1.0191384552584135,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,6,BF n50 ~ p=.001,BF-matched,30.872713994276324,24000,35,0.1458333333333333,0.1923550017978082,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,7,BF n50 ~ p=.0001,BF-matched,237.8430795492584,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,8,BF >= 3,BF-reference,3.0,24000,269,1.1208333333333331,1.2382472900062815,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,9,BF >= 10,BF-reference,10.0,24000,98,0.4083333333333333,0.4818578604185065,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,10,BF >= 30,BF-reference,30.0,24000,35,0.1458333333333333,0.1923550017978082,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,normal,11,BF >= 100,BF-reference,100.0,24000,8,0.0333333333333333,0.0591477468725098,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,0,p < .05,p,0.05,24000,532,2.216666666666667,2.3784529742766845,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,1,p < .01,p,0.01,24000,192,0.8,0.9002879003742175,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,2,p < .001,p,0.001,24000,25,0.1041666666666666,0.1444975655660414,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,3,p < .0001,p,0.0001,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,4,BF n50 ~ p=.05,BF-matched,1.0687526332443646,24000,405,1.6875,1.829802856565265,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,5,BF n50 ~ p=.01,BF-matched,4.1856582588433735,24000,155,0.6458333333333334,0.7366235288144474,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,6,BF n50 ~ p=.001,BF-matched,30.872713994276324,24000,20,0.0833333333333333,0.1201077891563065,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,7,BF n50 ~ p=.0001,BF-matched,237.8430795492584,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,8,BF >= 3,BF-reference,3.0,24000,189,0.7875,0.8870547630252394,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,9,BF >= 10,BF-reference,10.0,24000,61,0.2541666666666666,0.3135241164543469,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,10,BF >= 30,BF-reference,30.0,24000,21,0.0875,0.1250176532190882,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,t3,11,BF >= 100,BF-reference,100.0,24000,7,0.0291666666666666,0.053783291301917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,0,p < .05,p,0.05,24000,456,1.9,2.0504698573172613,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,1,p < .01,p,0.01,24000,170,0.7083333333333334,0.8030999754413398,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,2,p < .001,p,0.001,24000,30,0.125,0.1685536317522701,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,3,p < .0001,p,0.0001,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,4,BF n50 ~ p=.05,BF-matched,1.0687526332443646,24000,336,1.4,1.5303365866868703,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,5,BF n50 ~ p=.01,BF-matched,4.1856582588433735,24000,120,0.5,0.5806719333609313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,6,BF n50 ~ p=.001,BF-matched,30.872713994276324,24000,24,0.1,0.1396495166472379,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,7,BF n50 ~ p=.0001,BF-matched,237.8430795492584,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,8,BF >= 3,BF-reference,3.0,24000,154,0.6416666666666667,0.7321849405017926,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,9,BF >= 10,BF-reference,10.0,24000,53,0.2208333333333333,0.2765959424023623,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,10,BF >= 30,BF-reference,30.0,24000,24,0.1,0.1396495166472379,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,lognormal,11,BF >= 100,BF-reference,100.0,24000,10,0.0416666666666666,0.0696848077378969,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,0,p < .05,p,0.05,24000,741,3.0875,3.2765138420626103,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,1,p < .01,p,0.01,24000,294,1.225,1.3474126164763252,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,2,p < .001,p,0.001,24000,47,0.1958333333333333,0.2487186424000526,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,3,p < .0001,p,0.0001,24000,9,0.0375,0.0644448491330917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,4,BF n50 ~ p=.05,BF-matched,0.5785062943045254,24000,776,3.2333333333333334,3.426474308255824,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,5,BF n50 ~ p=.01,BF-matched,2.598905353210382,24000,230,0.9583333333333334,1.0674430980945326,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,6,BF n50 ~ p=.001,BF-matched,22.53719882351953,24000,37,0.1541666666666666,0.2018164879747175,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,7,BF n50 ~ p=.0001,BF-matched,197.63797917942176,24000,9,0.0375,0.0644448491330917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,8,BF >= 3,BF-reference,3.0,24000,228,0.95,1.0586650295823792,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,9,BF >= 10,BF-reference,10.0,24000,85,0.3541666666666667,0.4230815491700118,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,10,BF >= 30,BF-reference,30.0,24000,29,0.1208333333333333,0.163764832727222,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,normal,11,BF >= 100,BF-reference,100.0,24000,12,0.05,0.0800230958601293,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,0,p < .05,p,0.05,24000,499,2.0791666666666666,2.2361528835550395,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,1,p < .01,p,0.01,24000,186,0.775,0.8738156519648648,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,2,p < .001,p,0.001,24000,25,0.1041666666666666,0.1444975655660414,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,3,p < .0001,p,0.0001,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,4,BF n50 ~ p=.05,BF-matched,0.5785062943045254,24000,495,2.0625,2.2188929926411416,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,5,BF n50 ~ p=.01,BF-matched,2.598905353210382,24000,130,0.5416666666666666,0.6253669375217559,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,6,BF n50 ~ p=.001,BF-matched,22.53719882351953,24000,14,0.0583333333333333,0.090208226262567,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,7,BF n50 ~ p=.0001,BF-matched,197.63797917942176,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,8,BF >= 3,BF-reference,3.0,24000,127,0.5291666666666667,0.611971210777492,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,9,BF >= 10,BF-reference,10.0,24000,30,0.125,0.1685536317522701,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,10,BF >= 30,BF-reference,30.0,24000,13,0.0541666666666666,0.0851326408014938,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,t3,11,BF >= 100,BF-reference,100.0,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,0,p < .05,p,0.05,24000,3299,13.745833333333334,14.115514521724762,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,1,p < .01,p,0.01,24000,2136,8.9,9.206977405953069,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,2,p < .001,p,0.001,24000,995,4.145833333333333,4.362710311836866,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,3,p < .0001,p,0.0001,24000,404,1.6833333333333331,1.825470774169415,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,4,BF n50 ~ p=.05,BF-matched,0.5785062943045254,24000,3584,14.933333333333334,15.315710218451295,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,5,BF n50 ~ p=.01,BF-matched,2.598905353210382,24000,2182,9.091666666666669,9.40153807280814,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,6,BF n50 ~ p=.001,BF-matched,22.53719882351953,24000,972,4.05,4.264532848056113,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,7,BF n50 ~ p=.0001,BF-matched,197.63797917942176,24000,462,1.925,2.076398176721913,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,8,BF >= 3,BF-reference,3.0,24000,2155,8.979166666666666,9.287344468585813,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,9,BF >= 10,BF-reference,10.0,24000,1450,6.041666666666667,6.29962505270688,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,10,BF >= 30,BF-reference,30.0,24000,942,3.925,4.136427337593281,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,lognormal,11,BF >= 100,BF-reference,100.0,24000,585,2.4375,2.60667238165264,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,0,p < .05,p,0.05,24000,843,3.5125,3.713262548656605,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,1,p < .01,p,0.01,24000,326,1.3583333333333334,1.4868323421148628,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,2,p < .001,p,0.001,24000,33,0.1375,0.1828612527018177,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,3,p < .0001,p,0.0001,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,4,BF n50 ~ p=.05,BF-matched,1.3927456659132342,24000,738,3.075,3.263655122815293,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,5,BF n50 ~ p=.01,BF-matched,4.607418342042629,24000,253,1.0541666666666667,1.168254297850306,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,6,BF n50 ~ p=.001,BF-matched,29.06861769061448,24000,30,0.125,0.1685536317522701,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,7,BF n50 ~ p=.0001,BF-matched,201.97851085411412,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,8,BF >= 3,BF-reference,3.0,24000,381,1.5875,1.725771642379599,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,9,BF >= 10,BF-reference,10.0,24000,109,0.4541666666666666,0.5313560458071026,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,10,BF >= 30,BF-reference,30.0,24000,30,0.125,0.1685536317522701,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,normal,11,BF >= 100,BF-reference,100.0,24000,7,0.0291666666666666,0.053783291301917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,0,p < .05,p,0.05,24000,676,2.816666666666667,2.997720693524044,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,1,p < .01,p,0.01,24000,237,0.9875,1.0981508736825727,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,2,p < .001,p,0.001,24000,19,0.0791666666666666,0.1151796656807837,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,3,p < .0001,p,0.0001,24000,1,0.0041666666666666,0.0186746646473868,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,4,BF n50 ~ p=.05,BF-matched,1.3927456659132342,24000,550,2.2916666666666665,2.456004080904126,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,5,BF n50 ~ p=.01,BF-matched,4.607418342042629,24000,169,0.7041666666666667,0.7986739165100771,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,6,BF n50 ~ p=.001,BF-matched,29.06861769061448,24000,15,0.0625,0.0952532680945262,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,7,BF n50 ~ p=.0001,BF-matched,201.97851085411412,24000,1,0.0041666666666666,0.0186746646473868,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,8,BF >= 3,BF-reference,3.0,24000,280,1.1666666666666667,1.2863084546405543,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,9,BF >= 10,BF-reference,10.0,24000,58,0.2416666666666666,0.2997052839028733,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,10,BF >= 30,BF-reference,30.0,24000,15,0.0625,0.0952532680945262,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,t3,11,BF >= 100,BF-reference,100.0,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,0,p < .05,p,0.05,24000,571,2.379166666666667,2.5464242852540493,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,1,p < .01,p,0.01,24000,196,0.8166666666666667,0.9179230286217684,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,2,p < .001,p,0.001,24000,15,0.0625,0.0952532680945262,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,3,p < .0001,p,0.0001,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,4,BF n50 ~ p=.05,BF-matched,1.3927456659132342,24000,433,1.8041666666666667,1.95101656913436,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,5,BF n50 ~ p=.01,BF-matched,4.607418342042629,24000,125,0.5208333333333334,0.6030347633371196,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,6,BF n50 ~ p=.001,BF-matched,29.06861769061448,24000,11,0.0458333333333333,0.0748754866704009,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,7,BF n50 ~ p=.0001,BF-matched,201.97851085411412,24000,0,0.0,0.0112718270413197,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,8,BF >= 3,BF-reference,3.0,24000,197,0.8208333333333333,0.9223302264866482,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,9,BF >= 10,BF-reference,10.0,24000,39,0.1625,0.2112482450835721,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,10,BF >= 30,BF-reference,30.0,24000,11,0.0458333333333333,0.0748754866704009,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 independent interaction,fact2_ind,lognormal,11,BF >= 100,BF-reference,100.0,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,0,p < .05,p,0.05,24000,1019,4.245833333333334,4.46512359787241,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,1,p < .01,p,0.01,24000,352,1.4666666666666666,1.5998849444280685,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,2,p < .001,p,0.001,24000,38,0.1583333333333333,0.2065359372999622,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,3,p < .0001,p,0.0001,24000,6,0.025,0.0483378122446603,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,862,3.591666666666667,3.794528541056421,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,274,1.1416666666666666,1.2600990078236864,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,34,0.1416666666666666,0.187612332516057,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,8,BF >= 3,BF-reference,3.0,24000,346,1.4416666666666669,1.5738124964143194,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,9,BF >= 10,BF-reference,10.0,24000,93,0.3875,0.4592902768548827,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,10,BF >= 30,BF-reference,30.0,24000,34,0.1416666666666666,0.187612332516057,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,normal,11,BF >= 100,BF-reference,100.0,24000,11,0.0458333333333333,0.0748754866704009,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,0,p < .05,p,0.05,24000,721,3.004166666666667,3.190773701714601,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,1,p < .01,p,0.01,24000,248,1.0333333333333334,1.1463593326919477,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,2,p < .001,p,0.001,24000,24,0.1,0.1396495166472379,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,3,p < .0001,p,0.0001,24000,3,0.0125,0.0312732969991121,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,578,2.408333333333333,2.576551461331725,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,148,0.6166666666666667,0.7055342146852226,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,19,0.0791666666666666,0.1151796656807837,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,1,0.0041666666666666,0.0186746646473868,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,8,BF >= 3,BF-reference,3.0,24000,203,0.8458333333333333,0.9487604681890898,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,9,BF >= 10,BF-reference,10.0,24000,53,0.2208333333333333,0.2765959424023623,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,10,BF >= 30,BF-reference,30.0,24000,19,0.0791666666666666,0.1151796656807837,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,t3,11,BF >= 100,BF-reference,100.0,24000,6,0.025,0.0483378122446603,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,0,p < .05,p,0.05,24000,5877,24.4875,24.94692475288815,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,1,p < .01,p,0.01,24000,3934,16.391666666666666,16.7885102520377,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,2,p < .001,p,0.001,24000,2039,8.495833333333334,8.796568256817947,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,3,p < .0001,p,0.0001,24000,959,3.995833333333333,4.209027244046799,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,5742,23.925,24.38089224834881,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,4045,16.854166666666668,17.25535988425923,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,2047,8.529166666666667,8.830423827044791,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,1010,4.208333333333333,4.426722465808655,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,8,BF >= 3,BF-reference,3.0,24000,4444,18.516666666666666,18.93262526877974,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,9,BF >= 10,BF-reference,10.0,24000,2757,11.4875,11.8304106351335,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,10,BF >= 30,BF-reference,30.0,24000,2047,8.529166666666667,8.830423827044791,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2 repeated interaction,fact2_rep,lognormal,11,BF >= 100,BF-reference,100.0,24000,1356,5.65,5.90017769292264,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,0,p < .05,p,0.05,24000,689,2.870833333333333,3.053511852192466,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,1,p < .01,p,0.01,24000,287,1.1958333333333333,1.3168692967580709,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,2,p < .001,p,0.001,24000,64,0.2666666666666666,0.3273109688778072,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,3,p < .0001,p,0.0001,24000,9,0.0375,0.0644448491330917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,4,BF n50 ~ p=.05,BF-matched,1.5355322575548758,24000,587,2.4458333333333333,2.615277225214927,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,5,BF n50 ~ p=.01,BF-matched,4.645354458635387,24000,269,1.1208333333333331,1.2382472900062815,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,6,BF n50 ~ p=.001,BF-matched,26.612455036917662,24000,48,0.2,0.2533770233983834,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,7,BF n50 ~ p=.0001,BF-matched,173.05914548424548,24000,9,0.0375,0.0644448491330917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,8,BF >= 3,BF-reference,3.0,24000,331,1.3791666666666669,1.5085880847708912,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,9,BF >= 10,BF-reference,10.0,24000,120,0.5,0.5806719333609313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,10,BF >= 30,BF-reference,30.0,24000,47,0.1958333333333333,0.2487186424000526,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,normal,11,BF >= 100,BF-reference,100.0,24000,15,0.0625,0.0952532680945262,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,0,p < .05,p,0.05,24000,566,2.3583333333333334,2.524900981586999,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,1,p < .01,p,0.01,24000,244,1.0166666666666666,1.1288353878689263,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,2,p < .001,p,0.001,24000,31,0.1291666666666666,0.1733323245136144,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,3,p < .0001,p,0.0001,24000,4,0.0166666666666666,0.0371187588598139,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,4,BF n50 ~ p=.05,BF-matched,1.5355322575548758,24000,468,1.95,2.1023201148340807,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,5,BF n50 ~ p=.01,BF-matched,4.645354458635387,24000,233,0.9708333333333332,1.0806064876352748,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,6,BF n50 ~ p=.001,BF-matched,26.612455036917662,24000,22,0.0916666666666666,0.1299105067877451,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,7,BF n50 ~ p=.0001,BF-matched,173.05914548424548,24000,3,0.0125,0.0312732969991121,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,8,BF >= 3,BF-reference,3.0,24000,279,1.1625,1.2819411521585082,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,9,BF >= 10,BF-reference,10.0,24000,87,0.3625,0.4321460487447513,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,10,BF >= 30,BF-reference,30.0,24000,20,0.0833333333333333,0.1201077891563065,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,t3,11,BF >= 100,BF-reference,100.0,24000,9,0.0375,0.0644448491330917,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,0,p < .05,p,0.05,24000,509,2.120833333333333,2.27929159367342,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,1,p < .01,p,0.01,24000,186,0.775,0.8738156519648648,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,2,p < .001,p,0.001,24000,36,0.15,0.1970896112865339,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,3,p < .0001,p,0.0001,24000,6,0.025,0.0483378122446603,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,4,BF n50 ~ p=.05,BF-matched,1.5355322575548758,24000,413,1.7208333333333334,1.864451836729648,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,5,BF n50 ~ p=.01,BF-matched,4.645354458635387,24000,170,0.7083333333333334,0.8030999754413398,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,6,BF n50 ~ p=.001,BF-matched,26.612455036917662,24000,29,0.1208333333333333,0.163764832727222,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,7,BF n50 ~ p=.0001,BF-matched,173.05914548424548,24000,5,0.0208333333333333,0.0427922734158782,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,8,BF >= 3,BF-reference,3.0,24000,223,0.9291666666666668,1.0367110046339731,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,9,BF >= 10,BF-reference,10.0,24000,73,0.3041666666666666,0.368500431922411,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,10,BF >= 30,BF-reference,30.0,24000,26,0.1083333333333333,0.1493324191037823,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 independent interaction,fact3_ind,lognormal,11,BF >= 100,BF-reference,100.0,24000,11,0.0458333333333333,0.0748754866704009,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,0,p < .05,p,0.05,24000,790,3.2916666666666665,3.486429586261752,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,1,p < .01,p,0.01,24000,356,1.4833333333333334,1.617261271629976,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,2,p < .001,p,0.001,24000,46,0.1916666666666666,0.244055040813178,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,3,p < .0001,p,0.0001,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,898,3.7416666666666663,3.948436136904532,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,296,1.2333333333333334,1.3561361475864764,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,41,0.1708333333333333,0.2206524913604409,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,0,0.0,0.0112718270413197,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,8,BF >= 3,BF-reference,3.0,24000,380,1.5833333333333333,1.7214341504758244,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,9,BF >= 10,BF-reference,10.0,24000,129,0.5375,0.6209028694780295,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,10,BF >= 30,BF-reference,30.0,24000,40,0.1666666666666666,0.2159536792505558,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,normal,11,BF >= 100,BF-reference,100.0,24000,8,0.0333333333333333,0.0591477468725098,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,0,p < .05,p,0.05,24000,559,2.3291666666666666,2.494762817925061,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,1,p < .01,p,0.01,24000,226,0.9416666666666668,1.049884950616424,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,2,p < .001,p,0.001,24000,26,0.1083333333333333,0.1493324191037823,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,3,p < .0001,p,0.0001,24000,3,0.0125,0.0312732969991121,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,633,2.6375,2.813055629379292,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,154,0.6416666666666667,0.7321849405017926,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,16,0.0666666666666666,0.100270645003601,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,0,0.0,0.0112718270413197,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,8,BF >= 3,BF-reference,3.0,24000,224,0.9333333333333332,1.0411028347864428,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,9,BF >= 10,BF-reference,10.0,24000,50,0.2083333333333333,0.2626787546663402,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,10,BF >= 30,BF-reference,30.0,24000,16,0.0666666666666666,0.100270645003601,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,t3,11,BF >= 100,BF-reference,100.0,24000,2,0.0083333333333333,0.0251788828373313,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,0,p < .05,p,0.05,24000,5759,23.995833333333334,24.452176313548403,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,1,p < .01,p,0.01,24000,4212,17.55,17.957534464224068,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,2,p < .001,p,0.001,24000,2089,8.704166666666667,9.008143542955906,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,3,p < .0001,p,0.0001,24000,1048,4.366666666666666,4.588829920522102,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,4,BF n50 ~ p=.05,BF-matched,0.9770225203706202,24000,6225,25.9375,26.40554948761027,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,5,BF n50 ~ p=.01,BF-matched,3.757158079268169,24000,4111,17.129166666666666,17.53289462237373,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,6,BF n50 ~ p=.001,BF-matched,28.477231258259835,24000,2275,9.479166666666666,9.794764864609537,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,7,BF n50 ~ p=.0001,BF-matched,229.35259652817447,24000,1080,4.5,4.725280856132912,True,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,8,BF >= 3,BF-reference,3.0,24000,4572,19.05,19.47042355770742,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,9,BF >= 10,BF-reference,10.0,24000,3102,12.925,13.285375054119193,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,10,BF >= 30,BF-reference,30.0,24000,2270,9.458333333333334,9.773627750513835,False,exploratory; original 95% persistence minimum N; not refitted under violation
+2x2x2 repeated interaction,fact3_rep,lognormal,11,BF >= 100,BF-reference,100.0,24000,1462,6.091666666666667,6.350596081706628,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,0,p < .05,p,0.05,24000,2387,9.945833333333333,10.268118606614804,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,1,p < .01,p,0.01,24000,1325,5.520833333333333,5.768374074215848,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,2,p < .001,p,0.001,24000,403,1.6791666666666667,1.8211384758819968,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,3,p < .0001,p,0.0001,24000,110,0.4583333333333333,0.5358464328733961,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,4,BF n50 ~ p=.05,BF-matched,1.0687526332443646,24000,2146,8.941666666666666,9.249276752273744,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,5,BF n50 ~ p=.01,BF-matched,4.1856582588433735,24000,1175,4.895833333333333,5.1300659717011765,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,6,BF n50 ~ p=.001,BF-matched,30.872713994276324,24000,335,1.3958333333333333,1.5259874578714818,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,7,BF n50 ~ p=.0001,BF-matched,237.8430795492584,24000,95,0.3958333333333333,0.4683228078608961,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,8,BF >= 3,BF-reference,3.0,24000,1309,5.454166666666667,5.700331942448576,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,9,BF >= 10,BF-reference,10.0,24000,723,3.0125,3.199349356773665,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,10,BF >= 30,BF-reference,30.0,24000,340,1.4166666666666667,1.5477302815741965,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way independent ANOVA,one_ind,variance9,11,BF >= 100,BF-reference,100.0,24000,160,0.6666666666666666,0.7588032771047075,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,0,p < .05,p,0.05,24000,2914,12.141666666666667,12.49271928845756,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,1,p < .01,p,0.01,24000,1668,6.95,7.224886168788901,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,2,p < .001,p,0.001,24000,605,2.520833333333333,2.692698643384639,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,3,p < .0001,p,0.0001,24000,216,0.9,1.005953453648467,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,4,BF n50 ~ p=.05,BF-matched,0.5785062943045254,24000,2919,12.1625,12.513806441596248,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,5,BF n50 ~ p=.01,BF-matched,2.598905353210382,24000,1465,6.104166666666667,6.36333807951398,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,6,BF n50 ~ p=.001,BF-matched,22.53719882351953,24000,492,2.05,2.205946394167928,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,7,BF n50 ~ p=.0001,BF-matched,197.63797917942176,24000,189,0.7875,0.8870547630252394,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,8,BF >= 3,BF-reference,3.0,24000,1431,5.9625,6.218910873621965,False,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,9,BF >= 10,BF-reference,10.0,24000,788,3.283333333333333,3.477865528511197,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,10,BF >= 30,BF-reference,30.0,24000,463,1.9291666666666667,2.080718939603902,True,exploratory; original 95% persistence minimum N; not refitted under violation
+One-way repeated ANOVA,one_rep,sphericity55,11,BF >= 100,BF-reference,100.0,24000,245,1.0208333333333333,1.133217049116154,True,exploratory; original 95% persistence minimum N; not refitted under violation

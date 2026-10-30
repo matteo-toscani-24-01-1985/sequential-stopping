@@ -1,0 +1,9 @@
+Design,Original MATLAB engine filename,Original output directory name,Status in this ZIP
+Independent two-sample t-test,standalone_ttest_persistence_80_95_v2.m,ttest_persistence_80_95_results,Present in original paper; MATLAB core source not locally transferable
+Paired-sample t-test,standalone_paired_ttest_persistence_80_95.m,paired_ttest_persistence_80_95_results,Present in original paper; MATLAB core source not locally transferable
+One-way independent ANOVA (3 groups),oneway_independent_anova_persistence_80_95.m,oneway_independent_anova_80_95_results,Present in original paper; MATLAB core source not locally transferable
+One-way repeated ANOVA (3 levels),oneway_rm_anova_persistence_80_95.m,oneway_rm_anova_80_95_results,Present in original paper; MATLAB core source not locally transferable
+2x2 independent interaction,twoway_interaction_independent_2x2_80_95.m,twoway_interaction_independent_2x2_80_95_results,Present in original paper; MATLAB core source not locally transferable
+2x2 repeated interaction,twoway_interaction_rm_2x2_80_95.m,twoway_interaction_rm_2x2_80_95_results,Present in original paper; MATLAB core source not locally transferable
+2x2x2 independent interaction,threeway_interaction_independent_2x2x2_80_95.m,threeway_interaction_independent_2x2x2_80_95_results,Present in original paper; MATLAB core source not locally transferable
+2x2x2 repeated interaction,threeway_interaction_rm_2x2x2_80_95.m,threeway_interaction_rm_2x2x2_80_95_results,Present in original paper; MATLAB core source not locally transferable

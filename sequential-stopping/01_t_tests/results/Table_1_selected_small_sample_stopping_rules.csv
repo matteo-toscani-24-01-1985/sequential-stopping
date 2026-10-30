@@ -1,0 +1,25 @@
+Design,Calibration,Evidence threshold,FPR type,N80,FPR80_percent,Wilson_upper80_percent,Pass80,N95,FPR95_percent,Wilson_upper95_percent,Pass95
+Independent,Assumed d = 2,p < .05,complete assumed-d rule,4,43.8955,43.986783,False,6,42.348,42.438893,False
+Independent,Assumed d = 2,p < .001,complete assumed-d rule,6,1.7715,1.795923,True,10,1.64875,1.672332,True
+Independent,Assumed d = 2,p < .0001,complete assumed-d rule,8,0.21,0.218589,True,14,0.189625,0.197796,True
+Independent,Assumed d = 2,BF₁₀ ≥ 3,complete assumed-d rule,4,16.594,16.662529,False,6,15.375375,15.441827,False
+Independent,Assumed d = 2,BF₁₀ ≥ 10,complete assumed-d rule,6,4.40325,4.441135,True,8,4.1885,4.225495,True
+Independent,Assumed d = 2,BF₁₀ ≥ 30,complete assumed-d rule,6,1.387375,1.40905,True,10,1.272875,1.293656,True
+Independent,"Observed |d| in [2.00, 2.25)",p < .05,complete adaptive rule across all bins,6,13.442625,13.505479,False,8,3.26375,3.296585,True
+Independent,"Observed |d| in [2.00, 2.25)",p < .001,complete adaptive rule across all bins,10,0.639875,0.654706,True,12,0.181,0.188987,True
+Independent,"Observed |d| in [2.00, 2.25)",p < .0001,complete adaptive rule across all bins,14,0.0955,0.101352,True,16,0.018875,0.021576,True
+Independent,"Observed |d| in [2.00, 2.25)",BF₁₀ ≥ 3,complete adaptive rule across all bins,6,4.986875,5.027058,False,8,1.22825,1.248671,True
+Independent,"Observed |d| in [2.00, 2.25)",BF₁₀ ≥ 10,complete adaptive rule across all bins,8,1.52275,1.545434,True,10,0.354625,0.365726,True
+Independent,"Observed |d| in [2.00, 2.25)",BF₁₀ ≥ 30,complete adaptive rule across all bins,10,0.501375,0.514532,True,12,0.124375,0.131027,True
+Paired,Assumed d = 2,p < .05,complete assumed-d rule,4,44.56425,44.655673,False,4,44.56425,44.655673,False
+Paired,Assumed d = 2,p < .001,complete assumed-d rule,6,1.834125,1.858965,True,8,1.76375,1.78812,True
+Paired,Assumed d = 2,p < .0001,complete assumed-d rule,8,0.22025,0.229041,True,10,0.211625,0.220246,True
+Paired,Assumed d = 2,BF₁₀ ≥ 3,complete assumed-d rule,4,16.989,17.058173,False,4,16.989,17.058173,False
+Paired,Assumed d = 2,BF₁₀ ≥ 10,complete assumed-d rule,4,4.99275,5.032955,False,6,4.5565,4.595004,True
+Paired,Assumed d = 2,BF₁₀ ≥ 30,complete assumed-d rule,6,1.491875,1.514333,True,8,1.389375,1.411066,True
+Paired,"Observed |d| in [2.00, 2.25)",p < .05,complete adaptive rule across all bins,6,14.875625,14.941184,False,8,4.264375,4.301687,True
+Paired,"Observed |d| in [2.00, 2.25)",p < .001,complete adaptive rule across all bins,8,1.10425,1.123634,True,10,0.1775,0.185411,True
+Paired,"Observed |d| in [2.00, 2.25)",p < .0001,complete adaptive rule across all bins,12,0.14275,0.149864,True,14,0.024375,0.02742,True
+Paired,"Observed |d| in [2.00, 2.25)",BF₁₀ ≥ 3,complete adaptive rule across all bins,6,7.023,7.070138,False,8,1.43025,1.45225,True
+Paired,"Observed |d| in [2.00, 2.25)",BF₁₀ ≥ 10,complete adaptive rule across all bins,8,2.22,2.247257,True,10,0.4045,0.416341,True
+Paired,"Observed |d| in [2.00, 2.25)",BF₁₀ ≥ 30,complete adaptive rule across all bins,8,0.737625,0.753528,True,10,0.156125,0.163556,True

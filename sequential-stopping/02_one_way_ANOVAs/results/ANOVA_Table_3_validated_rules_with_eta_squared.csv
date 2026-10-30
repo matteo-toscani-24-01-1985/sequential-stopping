@@ -1,0 +1,84 @@
+Design,Calibration,Effect size,η²_or_partial_η²,Evidence,80% min N,80% FPR %,95% min N,95% FPR %,80% upper,95% upper
+Independent,Assumed f,0.169,0.028,p < .001,140.0,0.924,260,0.701,0.942,0.717
+Independent,Assumed f,0.169,0.028,BF₁₀ ≥ 3,110.0,4.096,220,2.36,4.133,2.388
+Independent,Assumed f,0.169,0.028,BF₁₀ ≥ 10,140.0,1.135,260,0.671,1.155,0.686
+Independent,Assumed f,0.169,0.028,BF₁₀ ≥ 30,160.0,0.359,280,0.226,0.37,0.234
+Independent,Assumed f,0.305,0.085,p < .001,50.0,1.232,80,1.103,1.252,1.122
+Independent,Assumed f,0.305,0.085,BF₁₀ ≥ 10,36.0,2.382,70,1.739,2.41,1.763
+Independent,Assumed f,0.305,0.085,BF₁₀ ≥ 30,50.0,0.693,80,0.56,0.709,0.574
+Independent,Assumed f,0.460,0.175,p < .001,18.0,1.579,32,1.373,1.602,1.395
+Independent,Assumed f,0.460,0.175,BF₁₀ ≥ 10,14.0,3.581,28,2.737,3.615,2.767
+Independent,Assumed f,0.460,0.175,BF₁₀ ≥ 30,18.0,1.089,32,0.854,1.108,0.872
+Independent,Assumed f,0.682,0.317,p < .001,10.0,1.751,16,1.613,1.775,1.636
+Independent,Assumed f,0.682,0.317,BF₁₀ ≥ 10,8.0,4.14,12,3.749,4.177,3.784
+Independent,Assumed f,0.682,0.317,BF₁₀ ≥ 30,8.0,1.336,14,1.17,1.357,1.19
+Independent,Assumed f,1.000,0.500,p < .001,6.0,1.881,8,1.812,1.907,1.837
+Independent,Assumed f,1.000,0.500,BF₁₀ ≥ 10,4.0,4.633,6,4.369,4.672,4.407
+Independent,Assumed f,1.000,0.500,BF₁₀ ≥ 30,6.0,1.402,8,1.336,1.424,1.357
+Independent,Observed f bin,"[0.10, 0.15)","[0.010, 0.022)",p < .05,,,360,3.011,,3.043
+Independent,Observed f bin,"[0.10, 0.15)","[0.010, 0.022)",p < .001,380.0,0.93,540,0.159,0.948,0.166
+Independent,Observed f bin,"[0.10, 0.15)","[0.010, 0.022)",BF₁₀ ≥ 3,,,480,1.084,,1.104
+Independent,Observed f bin,"[0.10, 0.15)","[0.010, 0.022)",BF₁₀ ≥ 10,380.0,1.752,560,0.374,1.776,0.385
+Independent,Observed f bin,"[0.10, 0.15)","[0.010, 0.022)",BF₁₀ ≥ 30,420.0,0.565,620,0.124,0.579,0.131
+Independent,Observed f bin,"[0.30, 0.35)","[0.083, 0.109)",p < .05,,,50,3.011,,3.043
+Independent,Observed f bin,"[0.30, 0.35)","[0.083, 0.109)",p < .001,60.0,0.93,70,0.159,0.948,0.166
+Independent,Observed f bin,"[0.30, 0.35)","[0.083, 0.109)",BF₁₀ ≥ 3,,,60,1.084,,1.104
+Independent,Observed f bin,"[0.30, 0.35)","[0.083, 0.109)",BF₁₀ ≥ 10,50.0,1.752,60,0.374,1.776,0.385
+Independent,Observed f bin,"[0.30, 0.35)","[0.083, 0.109)",BF₁₀ ≥ 30,60.0,0.565,70,0.124,0.579,0.131
+Independent,Observed f bin,"[0.50, 0.60)","[0.200, 0.265)",p < .05,,,16,3.011,,3.043
+Independent,Observed f bin,"[0.50, 0.60)","[0.200, 0.265)",p < .001,22.0,0.93,26,0.159,0.948,0.166
+Independent,Observed f bin,"[0.50, 0.60)","[0.200, 0.265)",BF₁₀ ≥ 3,,,18,1.084,,1.104
+Independent,Observed f bin,"[0.50, 0.60)","[0.200, 0.265)",BF₁₀ ≥ 10,18.0,1.752,22,0.374,1.776,0.385
+Independent,Observed f bin,"[0.50, 0.60)","[0.200, 0.265)",BF₁₀ ≥ 30,22.0,0.565,26,0.124,0.579,0.131
+Independent,Observed f bin,"[1.00, 1.20)","[0.500, 0.590)",p < .05,,,6,3.011,,3.043
+Independent,Observed f bin,"[1.00, 1.20)","[0.500, 0.590)",p < .001,8.0,0.93,10,0.159,0.948,0.166
+Independent,Observed f bin,"[1.00, 1.20)","[0.500, 0.590)",BF₁₀ ≥ 3,,,8,1.084,,1.104
+Independent,Observed f bin,"[1.00, 1.20)","[0.500, 0.590)",BF₁₀ ≥ 10,8.0,1.752,8,0.374,1.776,0.385
+Independent,Observed f bin,"[1.00, 1.20)","[0.500, 0.590)",BF₁₀ ≥ 30,8.0,0.565,10,0.124,0.579,0.131
+Independent,Observed f bin,"[2.00, 3.00)","[0.800, 0.900)",p < .05,,,6,3.011,,3.043
+Independent,Observed f bin,"[2.00, 3.00)","[0.800, 0.900)",p < .001,6.0,0.93,6,0.159,0.948,0.166
+Independent,Observed f bin,"[2.00, 3.00)","[0.800, 0.900)",BF₁₀ ≥ 3,,,6,1.084,,1.104
+Independent,Observed f bin,"[2.00, 3.00)","[0.800, 0.900)",BF₁₀ ≥ 10,4.0,1.752,6,0.374,1.776,0.385
+Independent,Observed f bin,"[2.00, 3.00)","[0.800, 0.900)",BF₁₀ ≥ 30,6.0,0.565,6,0.124,0.579,0.131
+Repeated measures,Assumed f,0.169,0.041,p < .001,150.0,0.896,260,0.699,0.913,0.714
+Repeated measures,Assumed f,0.169,0.041,BF₁₀ ≥ 3,130.0,1.668,240,0.943,1.691,0.961
+Repeated measures,Assumed f,0.169,0.041,BF₁₀ ≥ 10,150.0,0.492,280,0.271,0.505,0.281
+Repeated measures,Assumed f,0.169,0.041,BF₁₀ ≥ 30,170.0,0.152,300,0.088,0.16,0.094
+Repeated measures,Assumed f,0.305,0.122,p < .001,50.0,1.235,80,1.106,1.256,1.126
+Repeated measures,Assumed f,0.305,0.122,BF₁₀ ≥ 3,32.0,4.657,70,2.682,4.696,2.712
+Repeated measures,Assumed f,0.305,0.122,BF₁₀ ≥ 10,40.0,1.254,80,0.824,1.274,0.841
+Repeated measures,Assumed f,0.305,0.122,BF₁₀ ≥ 30,50.0,0.384,90,0.26,0.396,0.27
+Repeated measures,Assumed f,0.460,0.241,p < .001,20.0,1.55,34,1.355,1.573,1.377
+Repeated measures,Assumed f,0.460,0.241,BF₁₀ ≥ 10,16.0,2.4,30,1.616,2.428,1.64
+Repeated measures,Assumed f,0.460,0.241,BF₁₀ ≥ 30,20.0,0.722,34,0.5,0.738,0.514
+Repeated measures,Assumed f,0.682,0.411,p < .001,10.0,1.769,16,1.623,1.794,1.647
+Repeated measures,Assumed f,0.682,0.411,BF₁₀ ≥ 10,8.0,3.293,14,2.569,3.326,2.598
+Repeated measures,Assumed f,0.682,0.411,BF₁₀ ≥ 30,10.0,1.026,16,0.82,1.044,0.837
+Repeated measures,Assumed f,1.000,0.600,p < .001,6.0,1.905,8,1.832,1.93,1.857
+Repeated measures,Assumed f,1.000,0.600,BF₁₀ ≥ 10,4.0,4.128,8,3.293,4.164,3.326
+Repeated measures,Assumed f,1.000,0.600,BF₁₀ ≥ 30,6.0,1.228,8,1.12,1.249,1.14
+Repeated measures,Observed f bin,"[0.10, 0.15)","[0.015, 0.033)",p < .05,,,360,2.946,,2.977
+Repeated measures,Observed f bin,"[0.10, 0.15)","[0.015, 0.033)",p < .001,380.0,0.864,540,0.171,0.882,0.179
+Repeated measures,Observed f bin,"[0.10, 0.15)","[0.015, 0.033)",BF₁₀ ≥ 3,380.0,3.655,540,0.856,3.69,0.873
+Repeated measures,Observed f bin,"[0.10, 0.15)","[0.015, 0.033)",BF₁₀ ≥ 10,420.0,1.413,620,0.3,1.435,0.31
+Repeated measures,Observed f bin,"[0.10, 0.15)","[0.015, 0.033)",BF₁₀ ≥ 30,440.0,0.536,680,0.099,0.55,0.105
+Repeated measures,Observed f bin,"[0.30, 0.35)","[0.119, 0.155)",p < .05,,,50,2.946,,2.977
+Repeated measures,Observed f bin,"[0.30, 0.35)","[0.119, 0.155)",p < .001,60.0,0.864,70,0.171,0.882,0.179
+Repeated measures,Observed f bin,"[0.30, 0.35)","[0.119, 0.155)",BF₁₀ ≥ 3,50.0,3.655,60,0.856,3.69,0.873
+Repeated measures,Observed f bin,"[0.30, 0.35)","[0.119, 0.155)",BF₁₀ ≥ 10,60.0,1.413,70,0.3,1.435,0.31
+Repeated measures,Observed f bin,"[0.30, 0.35)","[0.119, 0.155)",BF₁₀ ≥ 30,70.0,0.536,80,0.099,0.55,0.105
+Repeated measures,Observed f bin,"[0.50, 0.60)","[0.273, 0.351)",p < .05,,,18,2.946,,2.977
+Repeated measures,Observed f bin,"[0.50, 0.60)","[0.273, 0.351)",p < .001,22.0,0.864,28,0.171,0.882,0.179
+Repeated measures,Observed f bin,"[0.50, 0.60)","[0.273, 0.351)",BF₁₀ ≥ 3,16.0,3.655,20,0.856,3.69,0.873
+Repeated measures,Observed f bin,"[0.50, 0.60)","[0.273, 0.351)",BF₁₀ ≥ 10,20.0,1.413,24,0.3,1.435,0.31
+Repeated measures,Observed f bin,"[0.50, 0.60)","[0.273, 0.351)",BF₁₀ ≥ 30,22.0,0.536,28,0.099,0.55,0.105
+Repeated measures,Observed f bin,"[1.00, 1.20)","[0.600, 0.684)",p < .05,,,8,2.946,,2.977
+Repeated measures,Observed f bin,"[1.00, 1.20)","[0.600, 0.684)",p < .001,10.0,0.864,10,0.171,0.882,0.179
+Repeated measures,Observed f bin,"[1.00, 1.20)","[0.600, 0.684)",BF₁₀ ≥ 3,6.0,3.655,8,0.856,3.69,0.873
+Repeated measures,Observed f bin,"[1.00, 1.20)","[0.600, 0.684)",BF₁₀ ≥ 10,8.0,1.413,10,0.3,1.435,0.31
+Repeated measures,Observed f bin,"[1.00, 1.20)","[0.600, 0.684)",BF₁₀ ≥ 30,8.0,0.536,10,0.099,0.55,0.105
+Repeated measures,Observed f bin,"[2.00, 3.00)","[0.857, 0.931)",p < .05,,,6,2.946,,2.977
+Repeated measures,Observed f bin,"[2.00, 3.00)","[0.857, 0.931)",p < .001,6.0,0.864,8,0.171,0.882,0.179
+Repeated measures,Observed f bin,"[2.00, 3.00)","[0.857, 0.931)",BF₁₀ ≥ 3,4.0,3.655,6,0.856,3.69,0.873
+Repeated measures,Observed f bin,"[2.00, 3.00)","[0.857, 0.931)",BF₁₀ ≥ 10,6.0,1.413,8,0.3,1.435,0.31
+Repeated measures,Observed f bin,"[2.00, 3.00)","[0.857, 0.931)",BF₁₀ ≥ 30,6.0,0.536,8,0.099,0.55,0.105

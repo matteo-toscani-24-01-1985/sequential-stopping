@@ -1,0 +1,611 @@
+Design,Calibration,Effect_or_bin,partial_η²,Evidence_threshold,FPR_scope,Nmin_80,FPR_80_percent,Wilson_upper_80_percent,Nmin_95,FPR_95_percent,Wilson_upper_95_percent
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,p < .01,Complete fixed-assumed-f stopping rule,,,,500.0,3.504,3.5723
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,p < .001,Complete fixed-assumed-f stopping rule,380.0,0.516,0.543,680.0,0.2955,0.3161
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,p < .0001,Complete fixed-assumed-f stopping rule,500.0,0.051,0.06,840.0,0.0275,0.0343
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 4.6074 (p-matched at N=50),Complete fixed-assumed-f stopping rule,300.0,2.4965,2.5545,580.0,1.348,1.3911
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,420.0,0.2815,0.3017,740.0,0.14,0.1544
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,520.0,0.0355,0.0431,900.0,0.0125,0.0173
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 3,Complete fixed-assumed-f stopping rule,280.0,4.042,4.1151,520.0,2.3995,2.4564
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,360.0,0.9805,1.0174,640.0,0.522,0.5492
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,420.0,0.2735,0.2934,740.0,0.137,0.1513
+Two-way 2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,480.0,0.0805,0.0916,840.0,0.0365,0.0442
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,p < .001,Complete fixed-assumed-f stopping rule,130.0,0.873,0.9079,240.0,0.667,0.6976
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,p < .0001,Complete fixed-assumed-f stopping rule,160.0,0.1,0.1123,300.0,0.0785,0.0895
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 4.6074 (p-matched at N=50),Complete fixed-assumed-f stopping rule,100.0,4.677,4.7553,180.0,3.4635,3.5314
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,130.0,0.629,0.6588,240.0,0.4385,0.4635
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,170.0,0.0765,0.0874,300.0,0.0615,0.0713
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,110.0,2.0335,2.0861,220.0,1.382,1.4256
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,130.0,0.6135,0.6429,240.0,0.4265,0.4511
+Two-way 2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,150.0,0.1665,0.1822,280.0,0.1185,0.1318
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,p < .001,Complete fixed-assumed-f stopping rule,50.0,1.1345,1.1741,90.0,0.98,1.0169
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,p < .0001,Complete fixed-assumed-f stopping rule,70.0,0.1315,0.1455,110.0,0.116,0.1292
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,50.0,0.896,0.9313,90.0,0.7395,0.7717
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,60.0,0.119,0.1324,110.0,0.098,0.1102
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,38.0,2.915,2.9775,80.0,2.3125,2.3684
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,50.0,0.873,0.9079,90.0,0.721,0.7528
+Two-way 2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,60.0,0.2345,0.253,110.0,0.192,0.2088
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,p < .001,Complete fixed-assumed-f stopping rule,20.0,1.435,1.4794,36.0,1.227,1.2682
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,p < .0001,Complete fixed-assumed-f stopping rule,26.0,0.167,0.1827,50.0,0.1435,0.1581
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,20.0,1.179,1.2194,36.0,0.9875,1.0245
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,26.0,0.1475,0.1623,50.0,0.126,0.1397
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,16.0,3.769,3.8397,30.0,3.195,3.2603
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,20.0,1.1435,1.1833,36.0,0.9595,0.996
+Two-way 2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,24.0,0.2995,0.3203,50.0,0.248,0.267
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,p < .001,Complete fixed-assumed-f stopping rule,8.0,1.6825,1.7305,16.0,1.495,1.5403
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,p < .0001,Complete fixed-assumed-f stopping rule,12.0,0.1875,0.2041,20.0,0.1735,0.1895
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,10.0,1.333,1.3758,16.0,1.232,1.2732
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,12.0,0.1625,0.178,20.0,0.1525,0.1675
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,8.0,4.2305,4.3052,14.0,3.881,3.9527
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,10.0,1.29,1.3322,16.0,1.194,1.2346
+Two-way 2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,10.0,0.349,0.3714,18.0,0.3205,0.342
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,p < .001,Complete fixed-assumed-f stopping rule,6.0,1.7405,1.7893,10.0,1.626,1.6732
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,p < .0001,Complete fixed-assumed-f stopping rule,8.0,0.202,0.2192,12.0,0.1875,0.2041
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,1.408,1.452,10.0,1.333,1.3758
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,8.0,0.1715,0.1874,12.0,0.1625,0.178
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5275,4.6046,8.0,4.2305,4.3052
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,6.0,1.362,1.4053,10.0,1.29,1.3322
+Two-way 2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,8.0,0.3565,0.3791,12.0,0.3395,0.3616
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,p < .001,Complete fixed-assumed-f stopping rule,4.0,1.8185,1.8683,6.0,1.7405,1.7893
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,p < .0001,Complete fixed-assumed-f stopping rule,6.0,0.2095,0.227,8.0,0.202,0.2192
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.4435,1.488,6.0,1.408,1.452
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,0.1775,0.1937,8.0,0.1715,0.1874
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5275,4.6046,6.0,4.369,4.4448
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.398,1.4418,6.0,1.362,1.4053
+Two-way 2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,6.0,0.3655,0.3884,8.0,0.3565,0.3791
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,p < .001,Complete fixed-assumed-f stopping rule,4.0,1.8185,1.8683,6.0,1.7405,1.7893
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,p < .0001,Complete fixed-assumed-f stopping rule,4.0,0.2155,0.2332,6.0,0.2095,0.227
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 29.069 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.4435,1.488,6.0,1.408,1.452
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 201.98 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,0.181,0.1973,6.0,0.1775,0.1937
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5275,4.6046,4.0,4.5275,4.6046
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.398,1.4418,6.0,1.362,1.4053
+Two-way 2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,4.0,0.3715,0.3946,6.0,0.3655,0.3884
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .05,"Complete adaptive rule, all observed-f bins",,,,200.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .01,"Complete adaptive rule, all observed-f bins",,,,240.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .001,"Complete adaptive rule, all observed-f bins",240.0,0.972,1.0088,320.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .0001,"Complete adaptive rule, all observed-f bins",280.0,0.141,0.1555,420.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,220.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",200.0,4.37,4.4458,260.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",240.0,0.7,0.7313,340.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",280.0,0.106,0.1187,440.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,240.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",220.0,2.2005,2.2551,300.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",240.0,0.694,0.7252,340.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",280.0,0.2055,0.2228,400.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .05,"Complete adaptive rule, all observed-f bins",,,,60.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .01,"Complete adaptive rule, all observed-f bins",,,,70.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .001,"Complete adaptive rule, all observed-f bins",80.0,0.972,1.0088,90.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .0001,"Complete adaptive rule, all observed-f bins",100.0,0.141,0.1555,120.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,60.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",50.0,4.37,4.4458,70.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",80.0,0.7,0.7313,90.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",100.0,0.106,0.1187,120.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,70.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",60.0,2.2005,2.2551,80.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",80.0,0.694,0.7252,90.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",90.0,0.2055,0.2228,110.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .05,"Complete adaptive rule, all observed-f bins",,,,26.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .01,"Complete adaptive rule, all observed-f bins",,,,32.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .001,"Complete adaptive rule, all observed-f bins",34.0,0.972,1.0088,50.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .0001,"Complete adaptive rule, all observed-f bins",50.0,0.141,0.1555,60.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,26.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",24.0,4.37,4.4458,32.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",34.0,0.7,0.7313,50.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",50.0,0.106,0.1187,60.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,28.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",28.0,2.2005,2.2551,36.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",34.0,0.694,0.7252,50.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",50.0,0.2055,0.2228,50.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .05,"Complete adaptive rule, all observed-f bins",,,,16.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .01,"Complete adaptive rule, all observed-f bins",,,,20.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .001,"Complete adaptive rule, all observed-f bins",20.0,0.972,1.0088,26.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .0001,"Complete adaptive rule, all observed-f bins",28.0,0.141,0.1555,32.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,16.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",14.0,4.37,4.4458,20.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",22.0,0.7,0.7313,26.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",28.0,0.106,0.1187,32.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,18.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",18.0,2.2005,2.2551,22.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",22.0,0.694,0.7252,26.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",26.0,0.2055,0.2228,30.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .05,"Complete adaptive rule, all observed-f bins",,,,10.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .01,"Complete adaptive rule, all observed-f bins",,,,12.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .001,"Complete adaptive rule, all observed-f bins",14.0,0.972,1.0088,16.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .0001,"Complete adaptive rule, all observed-f bins",16.0,0.141,0.1555,20.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,10.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",10.0,4.37,4.4458,12.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",14.0,0.7,0.7313,16.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",16.0,0.106,0.1187,20.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,12.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",12.0,2.2005,2.2551,14.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",14.0,0.694,0.7252,16.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",16.0,0.2055,0.2228,20.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .05,"Complete adaptive rule, all observed-f bins",,,,6.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .01,"Complete adaptive rule, all observed-f bins",,,,8.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .001,"Complete adaptive rule, all observed-f bins",8.0,0.972,1.0088,10.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .0001,"Complete adaptive rule, all observed-f bins",10.0,0.141,0.1555,12.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,4.37,4.4458,8.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.7,0.7313,10.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",10.0,0.106,0.1187,12.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,8.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",8.0,2.2005,2.2551,8.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",8.0,0.694,0.7252,10.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",10.0,0.2055,0.2228,12.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .05,"Complete adaptive rule, all observed-f bins",,,,4.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .01,"Complete adaptive rule, all observed-f bins",,,,6.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .001,"Complete adaptive rule, all observed-f bins",6.0,0.972,1.0088,6.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .0001,"Complete adaptive rule, all observed-f bins",6.0,0.141,0.1555,8.0,0.018,0.0237
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,4.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,4.37,4.4458,6.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,0.7,0.7313,6.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 201.98 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.106,0.1187,8.0,0.014,0.0191
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,6.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",4.0,2.2005,2.2551,6.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",6.0,0.694,0.7252,6.0,0.1395,0.1539
+Two-way 2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",6.0,0.2055,0.2228,8.0,0.036,0.0437
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",p < .05,"Complete adaptive rule, all observed-f bins",,,,4.0,3.4315,3.4991
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",p < .01,"Complete adaptive rule, all observed-f bins",,,,4.0,1.3045,1.3469
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",p < .001,"Complete adaptive rule, all observed-f bins",4.0,0.972,1.0088,4.0,0.1575,0.1728
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",p < .0001,"Complete adaptive rule, all observed-f bins",4.0,0.141,0.1555,,,
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 1.3927 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,4.0,2.9055,2.9679
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 4.6074 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,4.37,4.4458,4.0,0.986,1.023
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 29.069 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,0.7,0.7313,,,
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,4.0,1.5225,1.5682
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",4.0,2.2005,2.2551,4.0,0.4015,0.4254
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",4.0,0.694,0.7252,,,
+Two-way 2x2 independent,Observed interaction f bin,"[2.00,3.00)","[0.800, 0.900)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",4.0,0.2055,0.2228,,,
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,p < .01,Complete fixed-assumed-f stopping rule,,,,500.0,3.478,3.546
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,p < .001,Complete fixed-assumed-f stopping rule,380.0,0.535,0.5625,680.0,0.301,0.3218
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,p < .0001,Complete fixed-assumed-f stopping rule,500.0,0.0585,0.0681,840.0,0.0255,0.0321
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 0.97702 (p-matched at N=50),Complete fixed-assumed-f stopping rule,,,,480.0,4.296,4.3712
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 3.7572 (p-matched at N=50),Complete fixed-assumed-f stopping rule,320.0,1.6405,1.6879,620.0,0.8395,0.8737
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,440.0,0.1605,0.1759,780.0,0.0695,0.0799
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,560.0,0.0185,0.0242,940.0,0.0045,0.0077
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 3,Complete fixed-assumed-f stopping rule,320.0,2.0375,2.0901,600.0,1.105,1.1441
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,380.0,0.5325,0.5599,680.0,0.2555,0.2748
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,440.0,0.1525,0.1675,800.0,0.0635,0.0735
+Two-way 2x2 repeated,Assumed interaction f,0.084,0.027,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,520.0,0.0475,0.0562,880.0,0.017,0.0225
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,p < .001,Complete fixed-assumed-f stopping rule,130.0,0.8715,0.9064,240.0,0.6895,0.7206
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,p < .0001,Complete fixed-assumed-f stopping rule,170.0,0.112,0.125,300.0,0.081,0.0922
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 3.7572 (p-matched at N=50),Complete fixed-assumed-f stopping rule,100.0,3.475,3.543,190.0,2.3265,2.3826
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,140.0,0.387,0.4105,260.0,0.257,0.2763
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,180.0,0.0515,0.0605,320.0,0.032,0.0393
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 3,Complete fixed-assumed-f stopping rule,100.0,4.3355,4.411,190.0,2.915,2.9775
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,120.0,1.182,1.2224,220.0,0.807,0.8406
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,140.0,0.371,0.394,260.0,0.2455,0.2644
+Two-way 2x2 repeated,Assumed interaction f,0.144,0.077,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,170.0,0.1155,0.1287,300.0,0.079,0.09
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,p < .001,Complete fixed-assumed-f stopping rule,50.0,1.1435,1.1833,90.0,0.9755,1.0123
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,p < .0001,Complete fixed-assumed-f stopping rule,70.0,0.1415,0.156,120.0,0.1215,0.135
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,BF10 ≥ 3.7572 (p-matched at N=50),Complete fixed-assumed-f stopping rule,,,,70.0,4.1645,4.2386
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,60.0,0.596,0.625,100.0,0.454,0.4794
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,70.0,0.077,0.0879,120.0,0.059,0.0686
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,50.0,1.853,1.9033,90.0,1.3985,1.4424
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,60.0,0.566,0.5943,100.0,0.4325,0.4573
+Two-way 2x2 repeated,Assumed interaction f,0.229,0.173,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,70.0,0.171,0.1869,110.0,0.1405,0.155
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,p < .001,Complete fixed-assumed-f stopping rule,24.0,1.399,1.4429,40.0,1.1985,1.2392
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,p < .0001,Complete fixed-assumed-f stopping rule,30.0,0.1755,0.1916,50.0,0.152,0.167
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,22.0,1.0025,1.0398,40.0,0.7145,0.7462
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,30.0,0.1135,0.1266,60.0,0.08,0.0911
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,18.0,3.101,3.1654,34.0,2.2595,2.3148
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,22.0,0.9505,0.9869,50.0,0.618,0.6475
+Two-way 2x2 repeated,Assumed interaction f,0.351,0.330,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,28.0,0.2715,0.2913,50.0,0.1975,0.2145
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,p < .001,Complete fixed-assumed-f stopping rule,12.0,1.6375,1.6848,20.0,1.4675,1.5124
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,p < .0001,Complete fixed-assumed-f stopping rule,16.0,0.203,0.2202,26.0,0.182,0.1984
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,12.0,1.285,1.3271,20.0,1.049,1.0871
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,16.0,0.147,0.1618,26.0,0.121,0.1345
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,10.0,3.8865,3.9582,16.0,3.2605,3.3265
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,12.0,1.222,1.2631,20.0,0.994,1.0312
+Two-way 2x2 repeated,Assumed interaction f,0.525,0.524,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,14.0,0.3555,0.3781,22.0,0.2955,0.3161
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,p < .001,Complete fixed-assumed-f stopping rule,8.0,1.7575,1.8065,14.0,1.588,1.6346
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,p < .0001,Complete fixed-assumed-f stopping rule,12.0,0.2145,0.2322,18.0,0.197,0.214
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,8.0,1.453,1.4977,12.0,1.285,1.3271
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,12.0,0.162,0.1775,16.0,0.147,0.1618
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,6.0,4.5665,4.6439,10.0,3.8865,3.9582
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,8.0,1.3815,1.4251,12.0,1.222,1.2631
+Two-way 2x2 repeated,Assumed interaction f,0.682,0.650,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,10.0,0.405,0.429,14.0,0.3555,0.3781
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,p < .001,Complete fixed-assumed-f stopping rule,6.0,1.8295,1.8794,10.0,1.696,1.7441
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,p < .0001,Complete fixed-assumed-f stopping rule,10.0,0.222,0.24,12.0,0.2145,0.2322
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,1.5655,1.6118,8.0,1.453,1.4977
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,8.0,0.183,0.1994,12.0,0.162,0.1775
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,6.0,4.5665,4.6439,8.0,4.194,4.2683
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,6.0,1.485,1.5301,10.0,1.298,1.3403
+Two-way 2x2 repeated,Assumed interaction f,0.881,0.756,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,8.0,0.4295,0.4542,10.0,0.405,0.429
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,p < .001,Complete fixed-assumed-f stopping rule,6.0,1.8295,1.8794,8.0,1.7575,1.8065
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,p < .0001,Complete fixed-assumed-f stopping rule,8.0,0.2325,0.2509,10.0,0.222,0.24
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,1.5655,1.6118,8.0,1.453,1.4977
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,8.0,0.183,0.1994,10.0,0.1715,0.1874
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,,,,6.0,4.5665,4.6439
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,6.0,1.485,1.5301,8.0,1.3815,1.4251
+Two-way 2x2 repeated,Assumed interaction f,1.000,0.800,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,8.0,0.4295,0.4542,10.0,0.405,0.429
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",p < .05,"Complete adaptive rule, all observed-f bins",,,,220.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",p < .01,"Complete adaptive rule, all observed-f bins",,,,260.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",p < .001,"Complete adaptive rule, all observed-f bins",240.0,1.0685,1.107,340.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",p < .0001,"Complete adaptive rule, all observed-f bins",280.0,0.1465,0.1613,440.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,240.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,280.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",260.0,0.7625,0.7952,380.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",300.0,0.1145,0.1276,480.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,280.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",240.0,2.19,2.2445,320.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",260.0,0.7385,0.7707,380.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.038, 0.083)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",300.0,0.2275,0.2457,440.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",p < .05,"Complete adaptive rule, all observed-f bins",,,,60.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",p < .01,"Complete adaptive rule, all observed-f bins",,,,70.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",p < .001,"Complete adaptive rule, all observed-f bins",80.0,1.0685,1.107,100.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",p < .0001,"Complete adaptive rule, all observed-f bins",100.0,0.1465,0.1613,120.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,60.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,80.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",80.0,0.7625,0.7952,100.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",110.0,0.1145,0.1276,130.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,70.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",70.0,2.19,2.2445,90.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",80.0,0.7385,0.7707,100.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.138, 0.200)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",100.0,0.2275,0.2457,120.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",p < .05,"Complete adaptive rule, all observed-f bins",,,,28.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",p < .01,"Complete adaptive rule, all observed-f bins",,,,36.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",p < .001,"Complete adaptive rule, all observed-f bins",40.0,1.0685,1.107,50.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",p < .0001,"Complete adaptive rule, all observed-f bins",60.0,0.1465,0.1613,60.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,28.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,36.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",38.0,0.7625,0.7952,50.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",60.0,0.1145,0.1276,70.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,34.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",32.0,2.19,2.2445,50.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",40.0,0.7385,0.7707,50.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.265, 0.329)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",50.0,0.2275,0.2457,60.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",p < .05,"Complete adaptive rule, all observed-f bins",,,,18.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",p < .01,"Complete adaptive rule, all observed-f bins",,,,22.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",p < .001,"Complete adaptive rule, all observed-f bins",24.0,1.0685,1.107,30.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",p < .0001,"Complete adaptive rule, all observed-f bins",32.0,0.1465,0.1613,38.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,18.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,22.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",24.0,0.7625,0.7952,30.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",32.0,0.1145,0.1276,38.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,22.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",20.0,2.19,2.2445,26.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",24.0,0.7385,0.7707,30.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.390, 0.448)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",30.0,0.2275,0.2457,36.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",p < .05,"Complete adaptive rule, all observed-f bins",,,,12.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",p < .01,"Complete adaptive rule, all observed-f bins",,,,16.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",p < .001,"Complete adaptive rule, all observed-f bins",16.0,1.0685,1.107,20.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",p < .0001,"Complete adaptive rule, all observed-f bins",22.0,0.1465,0.1613,26.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,12.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,14.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",16.0,0.7625,0.7952,20.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",20.0,0.1145,0.1276,26.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,14.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",14.0,2.19,2.2445,18.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",16.0,0.7385,0.7707,20.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.500, 0.590)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",20.0,0.2275,0.2457,24.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",p < .05,"Complete adaptive rule, all observed-f bins",,,,8.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",p < .01,"Complete adaptive rule, all observed-f bins",,,,10.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",p < .001,"Complete adaptive rule, all observed-f bins",12.0,1.0685,1.107,14.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",p < .0001,"Complete adaptive rule, all observed-f bins",14.0,0.1465,0.1613,18.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,8.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,10.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",12.0,0.7625,0.7952,14.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",14.0,0.1145,0.1276,18.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,10.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",10.0,2.19,2.2445,12.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",12.0,0.7385,0.7707,14.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.662, 0.719)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",14.0,0.2275,0.2457,16.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",p < .05,"Complete adaptive rule, all observed-f bins",,,,6.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",p < .01,"Complete adaptive rule, all observed-f bins",,,,8.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",p < .001,"Complete adaptive rule, all observed-f bins",8.0,1.0685,1.107,10.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",p < .0001,"Complete adaptive rule, all observed-f bins",12.0,0.1465,0.1613,14.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,8.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.7625,0.7952,10.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",10.0,0.1145,0.1276,12.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,8.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",8.0,2.19,2.2445,10.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",8.0,0.7385,0.7707,10.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.800, 0.852)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",10.0,0.2275,0.2457,12.0,0.042,0.0502
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",p < .05,"Complete adaptive rule, all observed-f bins",,,,6.0,4.2395,4.3142
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",p < .01,"Complete adaptive rule, all observed-f bins",,,,6.0,1.536,1.5819
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",p < .001,"Complete adaptive rule, all observed-f bins",8.0,1.0685,1.107,8.0,0.181,0.1973
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",p < .0001,"Complete adaptive rule, all observed-f bins",8.0,0.1465,0.1613,10.0,0.0225,0.0287
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,3.491,3.5591
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,1.132,1.1716
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,0.7625,0.7952,8.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.1145,0.1276,10.0,0.0205,0.0265
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,6.0,1.4675,1.5124
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",6.0,2.19,2.2445,8.0,0.4055,0.4296
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",6.0,0.7385,0.7707,8.0,0.161,0.1764
+Two-way 2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.941, 0.973)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",8.0,0.2275,0.2457,10.0,0.042,0.0502
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,p < .001,Complete fixed-assumed-f stopping rule,190.0,0.7695,0.8023,340.0,0.569,0.5973
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,p < .0001,Complete fixed-assumed-f stopping rule,240.0,0.0875,0.0991,420.0,0.0615,0.0713
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 4.6454 (p-matched at N=50),Complete fixed-assumed-f stopping rule,,,,260.0,3.498,3.5662
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,190.0,0.6905,0.7216,340.0,0.478,0.504
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,240.0,0.0925,0.1044,420.0,0.061,0.0708
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,150.0,2.174,2.2283,300.0,1.4755,1.5205
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,190.0,0.612,0.6414,340.0,0.428,0.4527
+Three-way 2x2x2 independent,Assumed interaction f,0.084,0.007,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,220.0,0.1685,0.1843,400.0,0.1145,0.1276
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,p < .001,Complete fixed-assumed-f stopping rule,60.0,1.1095,1.1487,120.0,0.918,0.9537
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,p < .0001,Complete fixed-assumed-f stopping rule,80.0,0.136,0.1502,140.0,0.113,0.126
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,60.0,1.061,1.0994,110.0,0.889,0.9242
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,80.0,0.1455,0.1602,140.0,0.121,0.1345
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,50.0,3.124,3.1886,100.0,2.5725,2.6314
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,60.0,0.9355,0.9716,120.0,0.754,0.7865
+Three-way 2x2x2 independent,Assumed interaction f,0.144,0.020,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,80.0,0.258,0.2773,130.0,0.2215,0.2395
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,p < .001,Complete fixed-assumed-f stopping rule,22.0,1.4135,1.4576,50.0,1.1515,1.1914
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,p < .0001,Complete fixed-assumed-f stopping rule,30.0,0.173,0.189,60.0,0.1445,0.1592
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,22.0,1.3225,1.3652,50.0,1.1015,1.1406
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,28.0,0.184,0.2005,60.0,0.1555,0.1707
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,18.0,3.9675,4.0399,36.0,3.402,3.4693
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,22.0,1.1625,1.2026,50.0,0.971,1.0077
+Three-way 2x2x2 independent,Assumed interaction f,0.229,0.050,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,28.0,0.3265,0.3482,50.0,0.285,0.3053
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,p < .001,Complete fixed-assumed-f stopping rule,10.0,1.6295,1.6767,18.0,1.4745,1.5195
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,p < .0001,Complete fixed-assumed-f stopping rule,12.0,0.209,0.2265,22.0,0.1875,0.2041
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,10.0,1.4685,1.5134,18.0,1.3695,1.4129
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,12.0,0.2065,0.2239,22.0,0.1935,0.2104
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,8.0,4.374,4.4498,14.0,4.13,4.2038
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,10.0,1.2925,1.3347,18.0,1.205,1.2458
+Three-way 2x2x2 independent,Assumed interaction f,0.351,0.110,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,12.0,0.3655,0.3884,20.0,0.343,0.3652
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,p < .001,Complete fixed-assumed-f stopping rule,4.0,1.7995,1.849,8.0,1.6705,1.7183
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,p < .0001,Complete fixed-assumed-f stopping rule,6.0,0.226,0.2442,10.0,0.218,0.2358
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.5385,1.5844,8.0,1.4875,1.5327
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,0.2115,0.2291,10.0,0.209,0.2265
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5535,4.6308,6.0,4.46,4.5365
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.357,1.4002,8.0,1.3115,1.354
+Three-way 2x2x2 independent,Assumed interaction f,0.525,0.216,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,6.0,0.38,0.4033,10.0,0.374,0.3971
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,p < .001,Complete fixed-assumed-f stopping rule,4.0,1.7995,1.849,4.0,1.7995,1.849
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,p < .0001,Complete fixed-assumed-f stopping rule,4.0,0.234,0.2525,6.0,0.226,0.2442
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.5385,1.5844,6.0,1.5085,1.554
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,0.2135,0.2312,6.0,0.2115,0.2291
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5535,4.6308,4.0,4.5535,4.6308
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.357,1.4002,6.0,1.33,1.3728
+Three-way 2x2x2 independent,Assumed interaction f,0.682,0.317,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,4.0,0.3835,0.4069,6.0,0.38,0.4033
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,p < .001,Complete fixed-assumed-f stopping rule,4.0,1.7995,1.849,4.0,1.7995,1.849
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,p < .0001,Complete fixed-assumed-f stopping rule,4.0,0.234,0.2525,4.0,0.234,0.2525
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.5385,1.5844,4.0,1.5385,1.5844
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,0.2135,0.2312,4.0,0.2135,0.2312
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5535,4.6308,4.0,4.5535,4.6308
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.357,1.4002,4.0,1.357,1.4002
+Three-way 2x2x2 independent,Assumed interaction f,0.881,0.437,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,4.0,0.3835,0.4069,4.0,0.3835,0.4069
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,p < .001,Complete fixed-assumed-f stopping rule,4.0,1.7995,1.849,4.0,1.7995,1.849
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,p < .0001,Complete fixed-assumed-f stopping rule,4.0,0.234,0.2525,4.0,0.234,0.2525
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 26.612 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.5385,1.5844,4.0,1.5385,1.5844
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 173.06 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,0.2135,0.2312,4.0,0.2135,0.2312
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,4.0,4.5535,4.6308,4.0,4.5535,4.6308
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.357,1.4002,4.0,1.357,1.4002
+Three-way 2x2x2 independent,Assumed interaction f,1.000,0.500,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,4.0,0.3835,0.4069,4.0,0.3835,0.4069
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .05,"Complete adaptive rule, all observed-f bins",,,,100.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .01,"Complete adaptive rule, all observed-f bins",90.0,4.427,4.5033,120.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .001,"Complete adaptive rule, all observed-f bins",120.0,1.0085,1.0459,160.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",p < .0001,"Complete adaptive rule, all observed-f bins",130.0,0.154,0.1691,220.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,110.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",90.0,4.18,4.2542,120.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",110.0,0.893,0.9283,160.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",130.0,0.1465,0.1613,220.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,120.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",110.0,2.2725,2.328,140.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",120.0,0.757,0.7896,170.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.10,0.15)","[0.010, 0.022)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",130.0,0.243,0.2618,190.0,0.053,0.0622
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .05,"Complete adaptive rule, all observed-f bins",,,,28.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .01,"Complete adaptive rule, all observed-f bins",26.0,4.427,4.5033,34.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .001,"Complete adaptive rule, all observed-f bins",36.0,1.0085,1.0459,50.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",p < .0001,"Complete adaptive rule, all observed-f bins",50.0,0.154,0.1691,60.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,28.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",26.0,4.18,4.2542,34.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",36.0,0.893,0.9283,50.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",50.0,0.1465,0.1613,60.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,32.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",30.0,2.2725,2.328,38.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",38.0,0.757,0.7896,50.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.20,0.25)","[0.038, 0.059)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",50.0,0.243,0.2618,60.0,0.053,0.0622
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .05,"Complete adaptive rule, all observed-f bins",,,,14.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .01,"Complete adaptive rule, all observed-f bins",12.0,4.427,4.5033,16.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .001,"Complete adaptive rule, all observed-f bins",18.0,1.0085,1.0459,22.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",p < .0001,"Complete adaptive rule, all observed-f bins",24.0,0.154,0.1691,28.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,14.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",12.0,4.18,4.2542,16.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",18.0,0.893,0.9283,22.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",24.0,0.1465,0.1613,28.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,16.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",16.0,2.2725,2.328,18.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",18.0,0.757,0.7896,22.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.30,0.35)","[0.083, 0.109)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",22.0,0.243,0.2618,26.0,0.053,0.0622
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .05,"Complete adaptive rule, all observed-f bins",,,,8.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .01,"Complete adaptive rule, all observed-f bins",8.0,4.427,4.5033,10.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .001,"Complete adaptive rule, all observed-f bins",10.0,1.0085,1.0459,14.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",p < .0001,"Complete adaptive rule, all observed-f bins",14.0,0.154,0.1691,16.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,8.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,4.18,4.2542,10.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",12.0,0.893,0.9283,14.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",14.0,0.1465,0.1613,16.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,10.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",10.0,2.2725,2.328,12.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",12.0,0.757,0.7896,14.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.40,0.45)","[0.138, 0.168)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",14.0,0.243,0.2618,16.0,0.053,0.0622
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .05,"Complete adaptive rule, all observed-f bins",,,,6.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .01,"Complete adaptive rule, all observed-f bins",6.0,4.427,4.5033,6.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .001,"Complete adaptive rule, all observed-f bins",6.0,1.0085,1.0459,8.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",p < .0001,"Complete adaptive rule, all observed-f bins",8.0,0.154,0.1691,10.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,4.18,4.2542,6.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,0.893,0.9283,10.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.1465,0.1613,12.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,6.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",6.0,2.2725,2.328,8.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",6.0,0.757,0.7896,10.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.50,0.60)","[0.200, 0.265)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",8.0,0.243,0.2618,10.0,0.053,0.0622
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .05,"Complete adaptive rule, all observed-f bins",,,,4.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .01,"Complete adaptive rule, all observed-f bins",4.0,4.427,4.5033,4.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .001,"Complete adaptive rule, all observed-f bins",4.0,1.0085,1.0459,6.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",p < .0001,"Complete adaptive rule, all observed-f bins",6.0,0.154,0.1691,6.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,4.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,4.18,4.2542,4.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,0.893,0.9283,6.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,0.1465,0.1613,8.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,4.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",4.0,2.2725,2.328,6.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",4.0,0.757,0.7896,6.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[0.70,0.80)","[0.329, 0.390)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",6.0,0.243,0.2618,6.0,0.053,0.0622
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .05,"Complete adaptive rule, all observed-f bins",,,,4.0,2.906,2.9684
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .01,"Complete adaptive rule, all observed-f bins",4.0,4.427,4.5033,4.0,1.224,1.2651
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .001,"Complete adaptive rule, all observed-f bins",4.0,1.0085,1.0459,4.0,0.218,0.2358
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",p < .0001,"Complete adaptive rule, all observed-f bins",4.0,0.154,0.1691,4.0,0.032,0.0393
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 1.5355 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,4.0,2.4745,2.5323
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 4.6454 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,4.18,4.2542,4.0,1.1545,1.1945
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 26.612 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,0.893,0.9283,4.0,0.169,0.1848
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 173.06 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",4.0,0.1465,0.1613,4.0,0.0295,0.0365
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,4.0,1.4585,1.5033
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",4.0,2.2725,2.328,4.0,0.485,0.5112
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",4.0,0.757,0.7896,4.0,0.155,0.1702
+Three-way 2x2x2 independent,Observed interaction f bin,"[1.00,1.20)","[0.500, 0.590)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",4.0,0.243,0.2618,4.0,0.053,0.0622
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,p < .001,Complete fixed-assumed-f stopping rule,190.0,0.755,0.7875,340.0,0.5765,0.605
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,p < .0001,Complete fixed-assumed-f stopping rule,260.0,0.0905,0.1023,440.0,0.0635,0.0735
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 3.7572 (p-matched at N=50),Complete fixed-assumed-f stopping rule,150.0,2.743,2.8037,300.0,1.7255,1.7741
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,220.0,0.2885,0.3089,380.0,0.184,0.2005
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,280.0,0.036,0.0437,460.0,0.0215,0.0276
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 3,Complete fixed-assumed-f stopping rule,150.0,3.42,3.4875,280.0,2.2505,2.3057
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,180.0,0.927,0.9629,340.0,0.592,0.6209
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,220.0,0.2755,0.2955,380.0,0.175,0.1911
+Three-way 2x2x2 repeated,Assumed interaction f,0.084,0.053,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,260.0,0.088,0.0996,440.0,0.058,0.0676
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,p < .001,Complete fixed-assumed-f stopping rule,70.0,1.0425,1.0805,120.0,0.89,0.9252
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,p < .0001,Complete fixed-assumed-f stopping rule,90.0,0.13,0.1439,150.0,0.1175,0.1308
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 3.7572 (p-matched at N=50),Complete fixed-assumed-f stopping rule,50.0,4.844,4.9236,90.0,3.6765,3.7463
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,70.0,0.5465,0.5743,130.0,0.3985,0.4224
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,90.0,0.067,0.0772,160.0,0.0525,0.0616
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 3,Complete fixed-assumed-f stopping rule,,,,90.0,4.5835,4.661
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,60.0,1.7055,1.7538,110.0,1.247,1.2885
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,70.0,0.521,0.5482,130.0,0.3835,0.4069
+Three-way 2x2x2 repeated,Assumed interaction f,0.144,0.142,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,80.0,0.16,0.1754,150.0,0.124,0.1376
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,p < .001,Complete fixed-assumed-f stopping rule,26.0,1.3655,1.4088,50.0,1.1435,1.1833
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,p < .0001,Complete fixed-assumed-f stopping rule,36.0,0.1655,0.1811,60.0,0.1445,0.1592
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,26.0,0.9165,0.9522,50.0,0.65,0.6802
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,36.0,0.1025,0.115,60.0,0.08,0.0911
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,22.0,2.8165,2.878,40.0,2.024,2.0764
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,26.0,0.868,0.9028,50.0,0.618,0.6475
+Three-way 2x2x2 repeated,Assumed interaction f,0.229,0.296,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,32.0,0.252,0.2711,60.0,0.1805,0.1968
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,p < .001,Complete fixed-assumed-f stopping rule,14.0,1.588,1.6346,22.0,1.4325,1.4769
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,p < .0001,Complete fixed-assumed-f stopping rule,18.0,0.197,0.214,28.0,0.179,0.1952
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,12.0,1.285,1.3271,22.0,1.0025,1.0398
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,18.0,0.141,0.1555,28.0,0.1175,0.1308
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,10.0,3.8865,3.9582,18.0,3.101,3.1654
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,12.0,1.222,1.2631,22.0,0.9505,0.9869
+Three-way 2x2x2 repeated,Assumed interaction f,0.351,0.496,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,16.0,0.339,0.3611,26.0,0.2785,0.2986
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,p < .001,Complete fixed-assumed-f stopping rule,8.0,1.7575,1.8065,12.0,1.6375,1.6848
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,p < .0001,Complete fixed-assumed-f stopping rule,10.0,0.222,0.24,16.0,0.203,0.2202
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,8.0,1.453,1.4977,12.0,1.285,1.3271
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,10.0,0.1715,0.1874,14.0,0.1545,0.1696
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,6.0,4.5665,4.6439,10.0,3.8865,3.9582
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,8.0,1.3815,1.4251,12.0,1.222,1.2631
+Three-way 2x2x2 repeated,Assumed interaction f,0.525,0.688,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,10.0,0.405,0.429,14.0,0.3555,0.3781
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,p < .001,Complete fixed-assumed-f stopping rule,6.0,1.8295,1.8794,8.0,1.7575,1.8065
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,p < .0001,Complete fixed-assumed-f stopping rule,8.0,0.2325,0.2509,12.0,0.2145,0.2322
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,1.5655,1.6118,8.0,1.453,1.4977
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,8.0,0.183,0.1994,10.0,0.1715,0.1874
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,,,,6.0,4.5665,4.6439
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,6.0,1.485,1.5301,8.0,1.3815,1.4251
+Three-way 2x2x2 repeated,Assumed interaction f,0.682,0.788,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,8.0,0.4295,0.4542,10.0,0.405,0.429
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,p < .001,Complete fixed-assumed-f stopping rule,6.0,1.8295,1.8794,6.0,1.8295,1.8794
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,p < .0001,Complete fixed-assumed-f stopping rule,6.0,0.243,0.2618,8.0,0.2325,0.2509
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,1.5655,1.6118,6.0,1.5655,1.6118
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,0.195,0.2119,8.0,0.183,0.1994
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,BF10 ≥ 10,Complete fixed-assumed-f stopping rule,,,,6.0,4.5665,4.6439
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,6.0,1.485,1.5301,6.0,1.485,1.5301
+Three-way 2x2x2 repeated,Assumed interaction f,0.881,0.861,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,6.0,0.457,0.4825,8.0,0.4295,0.4542
+Three-way 2x2x2 repeated,Assumed interaction f,1.000,0.889,p < .001,Complete fixed-assumed-f stopping rule,6.0,1.8295,1.8794,6.0,1.8295,1.8794
+Three-way 2x2x2 repeated,Assumed interaction f,1.000,0.889,p < .0001,Complete fixed-assumed-f stopping rule,6.0,0.243,0.2618,8.0,0.2325,0.2509
+Three-way 2x2x2 repeated,Assumed interaction f,1.000,0.889,BF10 ≥ 28.477 (p-matched at N=50),Complete fixed-assumed-f stopping rule,4.0,1.6725,1.7203,6.0,1.5655,1.6118
+Three-way 2x2x2 repeated,Assumed interaction f,1.000,0.889,BF10 ≥ 229.35 (p-matched at N=50),Complete fixed-assumed-f stopping rule,6.0,0.195,0.2119,8.0,0.183,0.1994
+Three-way 2x2x2 repeated,Assumed interaction f,1.000,0.889,BF10 ≥ 30,Complete fixed-assumed-f stopping rule,4.0,1.589,1.6357,6.0,1.485,1.5301
+Three-way 2x2x2 repeated,Assumed interaction f,1.000,0.889,BF10 ≥ 100,Complete fixed-assumed-f stopping rule,6.0,0.457,0.4825,8.0,0.4295,0.4542
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",p < .05,"Complete adaptive rule, all observed-f bins",,,,110.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",p < .01,"Complete adaptive rule, all observed-f bins",,,,130.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",p < .001,"Complete adaptive rule, all observed-f bins",120.0,1.1135,1.1528,170.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",p < .0001,"Complete adaptive rule, all observed-f bins",140.0,0.1755,0.1916,220.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,120.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,140.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",130.0,0.9875,1.0245,180.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",150.0,0.134,0.1481,240.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,130.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",120.0,2.8995,2.9619,160.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",130.0,0.9575,0.994,180.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.10,0.15)","[0.074, 0.153)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",140.0,0.3255,0.3471,220.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",p < .05,"Complete adaptive rule, all observed-f bins",,,,32.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",p < .01,"Complete adaptive rule, all observed-f bins",,,,38.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",p < .001,"Complete adaptive rule, all observed-f bins",50.0,1.1135,1.1528,50.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",p < .0001,"Complete adaptive rule, all observed-f bins",60.0,0.1755,0.1916,70.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,32.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,38.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",50.0,0.9875,1.0245,50.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",60.0,0.134,0.1481,70.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,36.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",34.0,2.8995,2.9619,50.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",50.0,0.9575,0.994,50.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.20,0.25)","[0.242, 0.333)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",50.0,0.3255,0.3471,60.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",p < .05,"Complete adaptive rule, all observed-f bins",,,,16.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",p < .01,"Complete adaptive rule, all observed-f bins",,,,20.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",p < .001,"Complete adaptive rule, all observed-f bins",22.0,1.1135,1.1528,26.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",p < .0001,"Complete adaptive rule, all observed-f bins",30.0,0.1755,0.1916,34.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,16.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,20.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",22.0,0.9875,1.0245,26.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",28.0,0.134,0.1481,34.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,20.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",18.0,2.8995,2.9619,22.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",22.0,0.9575,0.994,26.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.30,0.35)","[0.419, 0.495)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",26.0,0.3255,0.3471,32.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",p < .05,"Complete adaptive rule, all observed-f bins",,,,12.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",p < .01,"Complete adaptive rule, all observed-f bins",,,,14.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",p < .001,"Complete adaptive rule, all observed-f bins",16.0,1.1135,1.1528,18.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",p < .0001,"Complete adaptive rule, all observed-f bins",20.0,0.1755,0.1916,24.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,10.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,14.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",14.0,0.9875,1.0245,18.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",20.0,0.134,0.1481,22.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,12.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",12.0,2.8995,2.9619,16.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",14.0,0.9575,0.994,18.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.40,0.45)","[0.561, 0.618)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",18.0,0.3255,0.3471,20.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",p < .05,"Complete adaptive rule, all observed-f bins",,,,8.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",p < .01,"Complete adaptive rule, all observed-f bins",,,,10.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",p < .001,"Complete adaptive rule, all observed-f bins",10.0,1.1135,1.1528,14.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",p < .0001,"Complete adaptive rule, all observed-f bins",14.0,0.1755,0.1916,18.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,8.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,10.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",10.0,0.9875,1.0245,14.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",12.0,0.134,0.1481,16.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,10.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",8.0,2.8995,2.9619,12.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",10.0,0.9575,0.994,14.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.50,0.60)","[0.667, 0.742)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",12.0,0.3255,0.3471,16.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",p < .05,"Complete adaptive rule, all observed-f bins",,,,6.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",p < .01,"Complete adaptive rule, all observed-f bins",,,,8.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",p < .001,"Complete adaptive rule, all observed-f bins",8.0,1.1135,1.1528,10.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",p < .0001,"Complete adaptive rule, all observed-f bins",10.0,0.1755,0.1916,12.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,8.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.9875,1.0245,10.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",10.0,0.134,0.1481,12.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,6.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",6.0,2.8995,2.9619,8.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",8.0,0.9575,0.994,10.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[0.70,0.80)","[0.797, 0.837)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",10.0,0.3255,0.3471,12.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",p < .05,"Complete adaptive rule, all observed-f bins",,,,6.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",p < .01,"Complete adaptive rule, all observed-f bins",,,,6.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",p < .001,"Complete adaptive rule, all observed-f bins",6.0,1.1135,1.1528,8.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",p < .0001,"Complete adaptive rule, all observed-f bins",8.0,0.1755,0.1916,10.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,4.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,0.9875,1.0245,8.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.134,0.1481,10.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,6.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",6.0,2.8995,2.9619,6.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",6.0,0.9575,0.994,8.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[1.00,1.20)","[0.889, 0.920)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",8.0,0.3255,0.3471,8.0,0.065,0.0751
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",p < .05,"Complete adaptive rule, all observed-f bins",,,,4.0,3.561,3.6298
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",p < .01,"Complete adaptive rule, all observed-f bins",,,,6.0,1.617,1.664
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",p < .001,"Complete adaptive rule, all observed-f bins",6.0,1.1135,1.1528,8.0,0.262,0.2815
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",p < .0001,"Complete adaptive rule, all observed-f bins",8.0,0.1755,0.1916,8.0,0.0385,0.0464
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 0.97702 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,4.0,4.0115,4.0843
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 3.7572 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",,,,6.0,1.332,1.3748
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 28.477 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",6.0,0.9875,1.0245,6.0,0.2425,0.2613
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 229.35 (p-matched at N=50),"Complete adaptive rule, all observed-f bins",8.0,0.134,0.1481,8.0,0.026,0.0326
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 3,"Complete adaptive rule, all observed-f bins",,,,6.0,1.755,1.804
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 10,"Complete adaptive rule, all observed-f bins",4.0,2.8995,2.9619,6.0,0.557,0.5851
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 30,"Complete adaptive rule, all observed-f bins",6.0,0.9575,0.994,6.0,0.2385,0.2571
+Three-way 2x2x2 repeated,Observed interaction f bin,"[2.00,3.00)","[0.970, 0.986)",BF10 ≥ 100,"Complete adaptive rule, all observed-f bins",6.0,0.3255,0.3471,8.0,0.065,0.0751
